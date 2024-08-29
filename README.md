@@ -13,7 +13,6 @@ Plugin'i sunucunuzun plugins klasörüne yerleştirin.
 Sunucunuzu yeniden başlatın veya /reload komutunu kullanarak plugin'i yükleyin.
 config.yml dosyasını özelleştirerek küfür ve reklam listelerini düzenleyin.
 Admin menüsüne erişmek için /exemitadmin komutunu kullanın.
-![exemit](https://github.com/user-attachments/assets/8b185120-d278-49a8-ae5b-67430321e288)
 
 Exemit Anti Küfür, sunucunuzda sağlıklı bir sohbet ortamı sağlamak için güçlü ve kullanıcı dostu bir araçtır. Plugin'in tüm özelliklerinden en iyi şekilde yararlanmak için konfigürasyon dosyasını ve admin menüsünü düzenlemeyi unutmayın.
 
