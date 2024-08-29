@@ -9,22 +9,22 @@
 
 **Yükleme ve Kullanım**
 
-Plugin'i sunucunuzun plugins klasörüne yerleştirin.
-Sunucunuzu yeniden başlatın veya /reload komutunu kullanarak plugin'i yükleyin.
-config.yml dosyasını özelleştirerek küfür ve reklam listelerini düzenleyin.
-Admin menüsüne erişmek için /exemitadmin komutunu kullanın.
+- Plugin'i sunucunuzun plugins klasörüne yerleştirin.
+- Sunucunuzu yeniden başlatın veya /reload komutunu kullanarak plugin'i yükleyin.
+- config.yml dosyasını özelleştirerek küfür ve reklam listelerini düzenleyin.
+- Admin menüsüne erişmek için /exemitadmin komutunu kullanın.
 
-Exemit Anti Küfür, sunucunuzda sağlıklı bir sohbet ortamı sağlamak için güçlü ve kullanıcı dostu bir araçtır. Plugin'in tüm özelliklerinden en iyi şekilde yararlanmak için konfigürasyon dosyasını ve admin menüsünü düzenlemeyi unutmayın.
+- Exemit Anti Küfür, sunucunuzda sağlıklı bir sohbet ortamı sağlamak için güçlü ve kullanıcı dostu bir araçtır. Plugin'in tüm özelliklerinden en iyi şekilde yararlanmak için konfigürasyon dosyasını ve admin menüsünü düzenlemeyi unutmayın.
 
 
 **Özellikler**
-180'den fazla küfür entegre edilmiştir.
-Türkçe,Almanca,İngilizce'de dilleri destekler.
-Gelişmiş analiz sistemi ile küfürleri daha iyi tespit eder.
+- 180'den fazla küfür entegre edilmiştir.
+- Türkçe,Almanca,İngilizce'de dilleri destekler.
+- Gelişmiş analiz sistemi ile küfürleri daha iyi tespit eder.
 
 
 **Uygun Versiyonlar** 
-1.16.5 - 1.20X
+- 1.16.5 - 1.20X
 
 
 > [!NOTE]
