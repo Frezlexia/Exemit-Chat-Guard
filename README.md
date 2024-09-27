@@ -27,4 +27,4 @@
 
 
 > [!NOTE]
-> Minecraft Exemit Hizmetleri tarafından yapılmıştır discord.gg/exemit https://youtube.com/@SimitKedi/.
+> Minecraft Exemit Hizmetleri tarafından yapılmıştır discord.gg/exemit
